@@ -1,0 +1,27 @@
+{
+  "name": "slack_bot_code",
+  "version": "1.0.0",
+  "description": "js and node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vighneshwarhegde/slackbot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vighneshwarhegde/slackbot/issues"
+  },
+  "homepage": "https://github.com/vighneshwarhegde/slackbot#readme",
+  "dependencies": {
+    "@slack/web-api": "^6.4.0",
+    "psi": "^4.1.0"
+  }
+}
